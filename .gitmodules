@@ -1,0 +1,4 @@
+[submodule "CLO"]
+	path = modules/clo
+	url = git@github.com:w4k2/clo.git
+	branch = DoRPA
